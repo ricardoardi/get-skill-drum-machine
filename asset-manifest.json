@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/get-skill-drum-machine/static/css/main.3f76216d.css",
+    "main.js": "/get-skill-drum-machine/static/js/main.d30ff505.js",
+    "static/js/787.6d5e833c.chunk.js": "/get-skill-drum-machine/static/js/787.6d5e833c.chunk.js",
+    "index.html": "/get-skill-drum-machine/index.html",
+    "main.3f76216d.css.map": "/get-skill-drum-machine/static/css/main.3f76216d.css.map",
+    "main.d30ff505.js.map": "/get-skill-drum-machine/static/js/main.d30ff505.js.map",
+    "787.6d5e833c.chunk.js.map": "/get-skill-drum-machine/static/js/787.6d5e833c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f76216d.css",
+    "static/js/main.d30ff505.js"
+  ]
+}
